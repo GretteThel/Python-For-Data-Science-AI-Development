@@ -1,0 +1,79 @@
+This module delves into the unique ways to collect data by the use of APIs and webscraping. It further explores data collection by explaining how to read and collect data when dealing with different file formats.
+Learning Objectives
+
+    Explain the use of the HTTP protocol using the Requests Library method.
+    Describe how the URL Request Response HTTP protocol works.
+    Invoke simple, open-source APIs.
+    Perform basic webscraping using Python.
+    Work with different file formats using Python.
+    Explain the difference between APIs and REST APIs.
+    Summarize how APIs receive and send information.
+
+Simple APIs (Part 1)
+Video•. Duration: 5 minutes5 min
+
+Simple APIs (Part 2)
+Video•. Duration: 1 minute1 min
+
+Reading: API
+Ungraded Plugin•. Duration: 15 minutes15 min
+
+Hands-On Lab: Introduction to API
+Ungraded App Item•. Duration: 1 hour1h
+
+    Practice Quiz
+    Practice Quiz•3 questions
+
+REST APIs & HTTP Requests - Part 1
+Video•. Duration: 4 minutes4 min
+
+REST APIs & HTTP Requests - Part 2
+Video•. Duration: 4 minutes4 min
+
+Hands-on Lab: Access REST APIs & Request HTTP
+Ungraded App Item•. Duration: 30 minutes30 min
+
+Hands-On Lab: API Examples
+Ungraded App Item•. Duration: 1 hour1h
+
+Optional: HTML for Webscraping
+Video•. Duration: 4 minutes4 min
+
+Webscraping
+Video•. Duration: 4 minutes4 min
+
+Hands-on Lab: Webscraping
+Ungraded App Item•. Duration: 30 minutes30 min
+
+Reading: Webscrapping
+Ungraded Plugin•. Duration: 15 minutes15 min
+
+Working with different file formats (csv, xml, json, xlsx)
+Video•. Duration: 4 minutes4 min
+
+Hands-on Lab: Working with different file formats
+Ungraded App Item•. Duration: 1 hour1h
+
+Cheat Sheet: APIs and Data Collection
+Ungraded Plugin•. Duration: 15 minutes15 min
+
+Practice Quiz
+Practice Quiz•4 questions
+
+    Module 5 Graded Quiz
+    Due, Feb 25, 11:59 PM UTC
+    Quiz•4 questions
+
+    •Grade: --
+
+    Final Exam
+    Due, Feb 25, 11:59 PM UTC
+    Quiz•25 questions
+
+    •Grade: --
+
+Next Steps
+Reading•. Duration: 10 minutes10 min
+
+Python Cheat Sheet: The Basics
+Reading•. Duration: 10 minutes10 min
